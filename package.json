@@ -48,9 +48,10 @@
     "traceur": "^0.0.111"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "3.3.7",
     "classnames": "^2.2.5",
     "create-react-class": "^15.6.3",
+    "font-awesome": "4.6.3",
     "jquery": "^3.0.0",
     "moment": "^2.13.0",
     "prop-types": "^15.7.2",
@@ -58,17 +59,5 @@
     "react-dom": "^16.2.0",
     "react-transition-group": "^1.2.1",
     "webextension-polyfill": "^0.4.0"
-  },
-  "jshintConfig": {
-    "asi": false,
-    "browser": true,
-    "curly": false,
-    "expr": true,
-    "indent": 4,
-    "loopfunc": true,
-    "node": true,
-    "trailing": true,
-    "undef": true,
-    "white": true
   }
 }
