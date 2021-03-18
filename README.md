@@ -79,4 +79,5 @@ Check for errors by inspecting the extension.
 
 ![inspecting extension](./screenshots/wakatime-chrome-debug.gif)
 
-[![time tracker](https://wakatime.com/badge/github/data-twister/chrome-wakatime.svg)](https://wakatime.com/badge/github/data-twister/chrome-wakatime)
+Contributers:
+mithereal (Jason Clark) [![time tracker](https://wakatime.com/badge/github/data-twister/chrome-wakatime.svg)](https://wakatime.com/badge/github/data-twister/chrome-wakatime)
