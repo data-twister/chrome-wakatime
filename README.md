@@ -80,4 +80,4 @@ Check for errors by inspecting the extension.
 ![inspecting extension](./screenshots/wakatime-chrome-debug.gif)
 
 Contributers:
-mithereal (Jason Clark) [![time tracker](https://wakatime.com/badge/github/data-twister/chrome-wakatime.svg)](https://wakatime.com/badge/github/data-twister/chrome-wakatime)
+mithereal: [![time tracker](https://wakatime.com/badge/github/data-twister/chrome-wakatime.svg)](https://wakatime.com/badge/github/data-twister/chrome-wakatime)
